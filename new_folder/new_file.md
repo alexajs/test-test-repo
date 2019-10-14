@@ -11,4 +11,7 @@
 - Keyboard shortcuts for Glo will now work after switching to a Glo tab. 
 - If Glo is unreachable from the GitKraken Client, the application will correctly timeout and show an error message instead of hanging indefinitely.
 
+
+
+
 ***
