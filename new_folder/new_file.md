@@ -1,0 +1,1 @@
+Users can now resize the text field to amend commit messages
